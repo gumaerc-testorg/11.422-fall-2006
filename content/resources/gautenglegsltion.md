@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-422-downtown-management-organizations-fall-2006/3b90647a2f619ae13af411226144bcea_gautenglegsltion.pdf
+file: /media/courses/11-422-downtown-management-organizations-fall-2006/3b90647a2f619ae13af411226144bcea_gautenglegsltion.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: gautenglegsltion.pdf
 uid: 3b90647a-2f61-9ae1-3af4-11226144bcea

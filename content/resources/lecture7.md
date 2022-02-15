@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource gives information on lecture 7.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-422-downtown-management-organizations-fall-2006/ad6b023420ec8610df069c23c8e2fec0_lecture7.pdf
+file: /media/courses/11-422-downtown-management-organizations-fall-2006/ad6b023420ec8610df069c23c8e2fec0_lecture7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture7.pdf
 uid: ad6b0234-20ec-8610-df06-9c23c8e2fec0
