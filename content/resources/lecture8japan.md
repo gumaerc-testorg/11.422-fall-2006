@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6b862d28-6a6e-be20-c04e-19258c35c712
 resourcetype: Document
 title: lecture8japan.pdf
 uid: a2255f65-8cdb-41c4-2bcf-0acf87dca400

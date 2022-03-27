@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 6b862d28-6a6e-be20-c04e-19258c35c712
 resourcetype: Document
 title: lect4empirical1.pdf
 uid: abe008ae-dc97-0b22-75f3-09df2730d25d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9bcf0ccd-6a3b-a4f1-cf7d-20e8f60fa097
 resourcetype: Document
 title: gautenglegislation.pdf
 uid: d623ed6a-94ea-07de-5055-0d5160713202
