@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-422-downtown-management-organizations-fall-2006/3b90647a2f619ae13af411226144bcea_gautenglegsltion.pdf
+file: /courses/11-422-downtown-management-organizations-fall-2006/3b90647a2f619ae13af411226144bcea_gautenglegsltion.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings

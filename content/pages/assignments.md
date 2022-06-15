@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains written assignments, group project, and class participation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

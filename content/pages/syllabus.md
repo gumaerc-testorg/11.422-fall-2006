@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains course description, course objectives, and couse
+  requirements.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

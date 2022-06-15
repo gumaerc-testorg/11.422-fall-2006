@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a table containing topics and discussion questions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -325,7 +326,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to the Course ([PDF]({{< baseurl >}}/resources/lecture1))
+Introduction to the Course ({{% resource_link 3642fd01-3ebc-ca90-a7a0-45e34d30bd91 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -336,9 +337,9 @@ Introduction to the Course ([PDF]({{< baseurl >}}/resources/lecture1))
 {{< tdopen >}}
 
 
-Canada ([PDF]({{< baseurl >}}/resources/lecture2canada))
+Canada ({{% resource_link de46885d-713c-db7f-cd8b-135e85f028e1 "PDF" %}})
 
-The Origins of the BID Movement ([PDF]({{< baseurl >}}/resources/lecture2))
+The Origins of the BID Movement ({{% resource_link a0be061c-3f7e-7a58-9ec2-f564a4b89eb9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -349,7 +350,7 @@ The Origins of the BID Movement ([PDF]({{< baseurl >}}/resources/lecture2))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-United States ([PDF]({{< baseurl >}}/resources/lecture3))
+United States ({{% resource_link 6afc9cb2-9ba9-2323-f93c-46377f9e287c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -358,7 +359,7 @@ United States ([PDF]({{< baseurl >}}/resources/lecture3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-The Advancement of the BID Movement ([PDF]({{< baseurl >}}/resources/lect4empirical1))
+The Advancement of the BID Movement ({{% resource_link abe008ae-dc97-0b22-75f3-09df2730d25d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +368,7 @@ The Advancement of the BID Movement ([PDF]({{< baseurl >}}/resources/lect4empiri
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Crossing the Ocean ([PDF]({{< baseurl >}}/resources/lecture5))
+Crossing the Ocean ({{% resource_link a9147190-4976-4314-ab07-6c896abeee71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -376,7 +377,7 @@ Crossing the Ocean ([PDF]({{< baseurl >}}/resources/lecture5))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Findings from Lectures 1 through 5 ([PDF]({{< baseurl >}}/resources/lecture6findings))
+Findings from Lectures 1 through 5 ({{% resource_link 1bab8422-5a0f-a2f8-0edd-d908ddb852b2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -385,7 +386,7 @@ Findings from Lectures 1 through 5 ([PDF]({{< baseurl >}}/resources/lecture6find
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Guest Speaker, Jerry Mitchell ([PDF]({{< baseurl >}}/resources/lecture7))
+Guest Speaker, Jerry Mitchell ({{% resource_link ad6b0234-20ec-8610-df06-9c23c8e2fec0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -396,13 +397,13 @@ Guest Speaker, Jerry Mitchell ([PDF]({{< baseurl >}}/resources/lecture7))
 {{< tdopen >}}
 
 
-Which Nations Will Soon Adopt the BID Concept? ([PDF]({{< baseurl >}}/resources/lecture8))
+Which Nations Will Soon Adopt the BID Concept? ({{% resource_link ba1345d2-5acf-0cc0-0a45-8a238d121484 "PDF" %}})
 
-Australia/New Zealand ([PDF]({{< baseurl >}}/resources/ausnz2))
+Australia/New Zealand ({{% resource_link 1d0c6572-31c9-acce-0015-b88e9c6481f8 "PDF" %}})
 
-Japan ([PDF]({{< baseurl >}}/resources/lecture8japan))
+Japan ({{% resource_link a2255f65-8cdb-41c4-2bcf-0acf87dca400 "PDF" %}})
 
-United Kingdom ([PDF]({{< baseurl >}}/resources/coventry2b2))
+United Kingdom ({{% resource_link 9a519f4a-66f7-3924-e1ed-1c7d50a34b4b "PDF" %}})
 
 
 {{< tdclose >}}

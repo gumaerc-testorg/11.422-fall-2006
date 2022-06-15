@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-422-downtown-management-organizations-fall-2006/45551dc358fc37582008d93a2eea9023_chp_picture1.jpg
+file: /courses/11-422-downtown-management-organizations-fall-2006/45551dc358fc37582008d93a2eea9023_chp_picture1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
