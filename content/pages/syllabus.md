@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains course description, course objectives, and couse
+  requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 901c647a-2a96-361f-be21-6fabe7f30147
 ---
