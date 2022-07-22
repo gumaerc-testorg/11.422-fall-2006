@@ -6,6 +6,7 @@ file: /courses/11-422-downtown-management-organizations-fall-2006/6afc9cb29ba923
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture3.pdf
 uid: 6afc9cb2-9ba9-2323-f93c-46377f9e287c
 ---
 This resource gives information on This resource gives information on BIDs in the united states.
-

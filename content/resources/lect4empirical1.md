@@ -6,6 +6,7 @@ file: /courses/11-422-downtown-management-organizations-fall-2006/abe008aedc970b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect4empirical1.pdf
 uid: abe008ae-dc97-0b22-75f3-09df2730d25d
 ---
 This resource gives information on BIDs in the united states, and the emergence of the BID in philadelphia.
-

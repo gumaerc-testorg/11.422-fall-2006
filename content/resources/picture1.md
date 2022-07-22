@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: picture1.jpg
 uid: 67591b7a-4d4e-512a-cee0-de4eed3f96e2
 ---
 A graphical representation of crime hotspots in Philadelphia. (Image courtesy of Lorlene Hoyt.)
-
