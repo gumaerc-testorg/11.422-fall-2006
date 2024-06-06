@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on lecture 7.
 file: /courses/11-422-downtown-management-organizations-fall-2006/ad6b023420ec8610df069c23c8e2fec0_lecture7.pdf
+file_size: 60634
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

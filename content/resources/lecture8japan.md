@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on history of japan's "BIDs".
 file: /courses/11-422-downtown-management-organizations-fall-2006/a2255f658cdb41c42bcf0acf87dca400_lecture8japan.pdf
+file_size: 687417
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
