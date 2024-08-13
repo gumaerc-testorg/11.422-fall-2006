@@ -162,13 +162,11 @@ Pennsylvania's Neighborhood Improvement District Legislation, 1998 ({{% resource
 
 Pennsylvania's Neighborhood Improvement District Legislation, 1999 ({{% resource_link "e7161156-437c-203d-1ebc-3327ff702720" "PDF" %}})
 
-[Cheltenham Township - Ogontz Avenue NID](https://law.resource.org/pub/us/code/city/pa/Cheltenham.html)
-
 [New Orleans](http://www.neworleansonline.com/)
 
 [French Quarter](http://www.frenchquarter.com/)
 
-[New Orleans Downtown Development District](http://www.neworleansdowntown.com/)
+[New Orleans Downtown Development District](https://downtownnola.com/)
 
 [Baton Rouge Downtown Development District](http://www.downtownbr.org/)
 
@@ -196,7 +194,7 @@ Guest speaker: Anne Meyers, President of the Downtown Crossing Association, Bost
 
 Read the site: [Massachusetts Bay Transportation Authority](http://www.mbta.com/schedules_and_maps/subway/lines/?route=RED) Take the Red Line from Kendall/MIT to Downtown Crossing Station. Explore the area.
 
-A Guide to Establishing a BID in Massachusetts ([PDF](http://www.state.ma.us/dhcd/publications/bid398.pdf))
+A Guide to Establishing a BID in Massachusetts ([PDF](https://www.mass.gov/doc/2020-revised-business-improvement-district-manual-0/download))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -211,8 +209,6 @@ Guest speakers: Chris Leinberger, Professor of Practice and Director of the Grad
 *Required Readings*
 
 [City of Reading, Pennsylvania](https://www.readingpa.gov/)
-
-[Reading Downtown Improvement District](http://www.downtownreading.com/)
 
 [West Reading Main Street](http://visitwestreading.com/)
 
@@ -296,7 +292,7 @@ Gauteng City Improvement District Bill, 1997 ({{% resource_link "d623ed6a-94ea-0
 
 Central Johannesburg Partnership
 
-[Cape Town Partnership](https://www.capetown.travel/member/cape-town-partnership/)
+[Cape Town Partnership](https://www.capetown.travel/listing/cape-town-partnership/)
 
 [Association of Town Centre Management](http://www.atcm.org/)
 
