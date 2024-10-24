@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on toronto's BIDs, and international
   BID project international.
-file: /courses/11-422-downtown-management-organizations-fall-2006/de46885d713cdb7fcd8b135e85f028e1_lecture2canada.pdf
+file: /ol-ocw-studio-app/courses/11-422-downtown-management-organizations-fall-2006/de46885d713cdb7fcd8b135e85f028e1_lecture2canada.pdf
 file_size: 236258
 file_type: application/pdf
 learning_resource_types:
