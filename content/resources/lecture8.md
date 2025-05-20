@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on lecture 8.
-file: /ol-ocw-studio-app/courses/11-422-downtown-management-organizations-fall-2006/ba1345d25acf0cc00a458a238d121484_lecture8.pdf
+file: /courses/11-422-downtown-management-organizations-fall-2006/ba1345d25acf0cc00a458a238d121484_lecture8.pdf
 file_size: 71810
 file_type: application/pdf
 learning_resource_types:
