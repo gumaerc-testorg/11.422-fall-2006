@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on introduction to the course, and what
   is a BID, and other revitalization strategies.
-file: /courses/11-422-downtown-management-organizations-fall-2006/3642fd013ebcca90a7a045e34d30bd91_lecture1.pdf
+file: /ol-ocw-studio-app/courses/11-422-downtown-management-organizations-fall-2006/3642fd013ebcca90a7a045e34d30bd91_lecture1.pdf
 file_size: 84851
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on British BIDs, Differences between
   US & British BIDs, and BID legislation.
-file: /courses/11-422-downtown-management-organizations-fall-2006/9a519f4a66f73924e1ed1c7d50a34b4b_coventry2b2.pdf
+file: /ol-ocw-studio-app/courses/11-422-downtown-management-organizations-fall-2006/9a519f4a66f73924e1ed1c7d50a34b4b_coventry2b2.pdf
 file_size: 684897
 file_type: application/pdf
 learning_resource_types:
