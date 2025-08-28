@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on BIDs in the united states, and the
   emergence of the BID in philadelphia.
-file: /courses/11-422-downtown-management-organizations-fall-2006/abe008aedc970b2275f309df2730d25d_lect4empirical1.pdf
+file: /ol-ocw-studio-app/courses/11-422-downtown-management-organizations-fall-2006/abe008aedc970b2275f309df2730d25d_lect4empirical1.pdf
 file_size: 925834
 file_type: application/pdf
 learning_resource_types:
