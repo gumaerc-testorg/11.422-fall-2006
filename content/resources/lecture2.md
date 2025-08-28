@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on canada's BIDs, and world's first BID.
-file: /courses/11-422-downtown-management-organizations-fall-2006/a0be061c3f7e7a589ec2f564a4b89eb9_lecture2.pdf
+file: /ol-ocw-studio-app/courses/11-422-downtown-management-organizations-fall-2006/a0be061c3f7e7a589ec2f564a4b89eb9_lecture2.pdf
 file_size: 134572
 file_type: application/pdf
 learning_resource_types:

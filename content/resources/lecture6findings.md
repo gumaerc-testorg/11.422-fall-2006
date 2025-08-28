@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on management , and development.
-file: /courses/11-422-downtown-management-organizations-fall-2006/1bab84225a0fa2f80eddd908ddb852b2_lecture6findings.pdf
+file: /ol-ocw-studio-app/courses/11-422-downtown-management-organizations-fall-2006/1bab84225a0fa2f80eddd908ddb852b2_lecture6findings.pdf
 file_size: 99715
 file_type: application/pdf
 learning_resource_types:
